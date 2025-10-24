@@ -1,8 +1,4 @@
-simulations/ns3/bin/*
-simulations/ns3/build/*
-simulations/ns3/lib/*
-simulations/omnet/bin/*
-simulations/omnet/build/*
-simulations/omnet/lib/*
+simulations/ns3/build
+simulations/omnet/build
 
 
